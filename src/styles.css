@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+header {
+  padding: 2rem;
+  background-color: black;
+  color: white;
+  font-size: xx-large;
+  font-weight: bold;
+}
+input {
+  text-align: center;
+  margin-top: 5rem;
+  padding: 1rem;
+  border-radius: 0.3rem;
+  border-color: blue;
+  width: 40%;
+}
+span {
+  padding: 0.3rem;
+  font-size: x-large;
+  cursor: pointer;
+}
+body {
+  margin: 0px;
+  overflow: hidden;
+}
+footer {
+  margin-top: 5rem;
+  background-size: cover;
+  height: 48vh;
+}
